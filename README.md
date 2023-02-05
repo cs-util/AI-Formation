@@ -1,5 +1,7 @@
 # Polarith AI Formation
 
+See also https://polarith.com/docs/ai/manual-aim-formation.html 
+
 ![](Images/polarith-ai.png)
 
 [Polarith AI](https://polarith.com/ai/) offers all you need for achieving state-of-the-art movement
